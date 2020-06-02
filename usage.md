@@ -36,7 +36,7 @@ By then, you will find a bin file named __ethfs__ in ethfs/bin dir.
 ```
 2. init ethereum workspace with a wallet
 ```bash
-~ mkdir in ~ named .ethereum
+~ mkdir $HOME/.ethereum
 ~ new a eth wallet in ~/.ethereum
 ```
 
