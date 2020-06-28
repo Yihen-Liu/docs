@@ -106,7 +106,7 @@ User can download file by cli command, for example:
 ## Upload File
 User can upload file by cli command, for example:
 ```bash
-~ ./ethfs data download --path="file path that will be upload" --password="your eth wallet password" --copynum="how many copy will be store" --amount="how manys token you will pledge for this file"
+~ ./ethfs data upload --path="file path that will be upload" --password="your eth wallet password" --copynum="how many copy will be store" --amount="how manys token you will pledge for this file"
 ```
 
 ## Withdraw Token
